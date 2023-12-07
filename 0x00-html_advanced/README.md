@@ -1,6 +1,5 @@
 # 0x00. Advanced HTML
-hng
-vhgh
+
 ## Description:bulb:
 How to use HTML tags to structure a web page
 * Which guidelines to follow for HTML
