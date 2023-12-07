@@ -41,7 +41,7 @@
 
 ## Connect with the Author
 
-- GitHub: [Vincent_Otis](https://github.com/otis-ke)
+- GitHub: [Vincent Otis](https://github.com/otis-ke)
 
 ---
 
