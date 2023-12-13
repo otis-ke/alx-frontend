@@ -131,9 +131,8 @@ Read or watch:
 * Go to https://dev-tools.hbtn.info/ which organization issued the SSL certificate for this page
 
 ### [34. Expiration date](./34-ssl_expiration.png)
-* Go to https://dev-tools.hbtn.info/ when does the SSL certificate expire
+* Go to https://dev-tools.hbtn.info/ when does the SSL certificate
 
----
+# author
+**otis-ke**
 
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
