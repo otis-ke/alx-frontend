@@ -161,4 +161,4 @@ i* Add images to sections
 ---
 
 ## Author
-**vincnt otis**
+**vincent otis**
