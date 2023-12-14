@@ -1,4 +1,4 @@
-cz sf #  ALX Front-End
+c sf #  ALX Front-End
 **Author:** Vincent Otis
 
 ## Description
