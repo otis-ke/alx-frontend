@@ -1,5 +1,5 @@
 #  ALX Front-End
-**Author:** Vincent Otis
+**Author:** --Vincent Otis--
 
 ## Description
 
