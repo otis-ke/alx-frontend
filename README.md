@@ -46,4 +46,4 @@
 
 ---
 
-Feel free to use and modify this template as needed for your project's README file.
+Feel free to use and modify
