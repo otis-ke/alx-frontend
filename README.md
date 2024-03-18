@@ -43,7 +43,3 @@
 ## Connect with the Author
 
 - GitHub: [Vincent Otis](https://github.com/otis-ke)
-
----
-
-Feel free to use and modify
